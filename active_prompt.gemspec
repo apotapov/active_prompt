@@ -24,5 +24,5 @@ Gem::Specification.new do |spec|
   spec.executables = spec.files.grep(%r{\Aexe/}) { |f| File.basename(f) }
   spec.require_paths = ["lib"]
   spec.add_runtime_dependency "liquid", "~> 5.5", ">= 5.2.0"
-  spec.add_runtime_dependency "rails", "~> 7.1", ">= 6.0.0"
+  spec.add_runtime_dependency "rails", "~> 8.0", ">= 6.0.0"
 end

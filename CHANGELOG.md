@@ -1,5 +1,9 @@
 ## [Unreleased]
 
+## [0.1.23] - 2024-11-17
+
+- Rails 8.0 support
+
 ## [0.1.22] - 2024-05-16
 
 - Added stub for `run()` method, which enables users to directly prompt the LLM by calling an ActivePrompt::Base object.

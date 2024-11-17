@@ -7,7 +7,7 @@ ActivePrompt is a gem that helps you structure and manage LLM prompts in your ra
 Add the following line to your Gemfile:
 
 ```Gemfile
-gem "active_prompt_rails", "~> 0.1.22", require: "active_prompt"
+gem "active_prompt_rails", "~> 0.1.23", require: "active_prompt"
 ```
 
 and run `bundle install`
